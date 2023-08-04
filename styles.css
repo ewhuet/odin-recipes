@@ -1,5 +1,15 @@
+body {
+    margin: 0;
+}
+
 h1 {
     background-color: rgb(55, 55, 155);
     color: white;
     text-align: center;
+    margin-top: 0;
+    padding: 15px 0 15px 0;
+}
+
+img, h3, p, ul, ol{
+    margin-left: 25px;
 }

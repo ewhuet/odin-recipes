@@ -14,3 +14,9 @@ h1 {
 img, h3, p, ul, ol{
     margin-left: 25px;
 }
+
+.contentBackground {
+    background-color: white;
+    margin: 5px 30px;
+    padding: 5px 30px;
+}

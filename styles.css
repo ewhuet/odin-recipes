@@ -11,12 +11,12 @@ h1 {
     padding: 15px 0 15px 0;
 }
 
-img, h3, p, ul, ol{
+/* img, h2, h3, p, ul, ol{
     margin-left: 25px;
-}
+} */
 
 .contentBackground {
     background-color: white;
-    margin: 5px 30px;
-    padding: 5px 30px;
+    margin: 5px 200px 5px 200px;
+    padding: 5px 150px;
 }
